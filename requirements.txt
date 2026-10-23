@@ -1,4 +1,2 @@
-cat > /home/project/requirements.txt << 'EOF'
 torch==2.2.2
 transformers==4.41.2
-EOF

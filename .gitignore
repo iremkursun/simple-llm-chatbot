@@ -1,6 +1,4 @@
-cat > /home/project/.gitignore << 'EOF'
 my_env/
 __pycache__/
 *.pyc
 .env
-EOF
