@@ -178,6 +178,8 @@ The labs used `facebook/blenderbot-400M-distill`. This version upgrades it to an
 LLM with a chat template, system prompt, fact grounding and a shared model module for both the
 web and terminal versions.
 
+![Chatbot web interface](screenshot.png)
+
 ## 🙏 Acknowledgments
 
 - [Qwen2.5](https://huggingface.co/Qwen/Qwen2.5-0.5B-Instruct) by Alibaba Cloud
