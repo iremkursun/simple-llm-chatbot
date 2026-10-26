@@ -174,11 +174,10 @@ This project was built while completing two IBM Skills Network labs:
 1. *Create Simple Chatbot with Open Source LLMs using Python and Hugging Face*
 2. *Integrating your Chatbot into a Web Interface*
 
-The labs used `facebook/blenderbot-400M-distill`. This version upgrades it to an instruction-tuned
-LLM with a chat template, system prompt, fact grounding and a shared model module for both the
-web and terminal versions.
+The original labs used `facebook/blenderbot-400M-distill`. This project replaces it with
+**Qwen2.5-0.5B-Instruct**, an instruction-tuned LLM, and adds a chat template, system prompt,
+fact grounding and a shared model module for both the web and terminal versions.
 
-![Chatbot web interface](screenshot.png)
 
 ## 🙏 Acknowledgments
 
